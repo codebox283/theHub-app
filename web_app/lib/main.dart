@@ -10,7 +10,7 @@ void main() {
           child: WebViewWidget(
             controller: WebViewController()
               ..setJavaScriptMode(JavaScriptMode.unrestricted)
-              ..loadRequest(Uri.parse("https://hack-india-2024-emosort-8ubx.vercel.app/")),
+              ..loadRequest(Uri.parse("https://thehub-xi.vercel.app/")),
           ),
         ),
       ),
